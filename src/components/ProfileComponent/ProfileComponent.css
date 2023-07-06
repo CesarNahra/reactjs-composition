@@ -1,0 +1,17 @@
+.profile-card-wrapper {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.profile-image-wrapper, .profile-image-wrapper img {
+    display: block;
+    margin: 0 auto;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color: #dfdfdf;
+}

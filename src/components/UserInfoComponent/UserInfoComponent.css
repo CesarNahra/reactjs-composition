@@ -1,0 +1,13 @@
+.profile-info-wrapper {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Helvetica;
+    font-size: 20px;
+    color: #fff;
+}
+
+.name-wrapper {
+    font-size: 30px;
+    font-family: Helvetica;
+    color: #334CFF;
+}
